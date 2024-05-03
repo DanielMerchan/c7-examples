@@ -1,2 +1,2 @@
-# c7-examples
-Camunda 7 examples showing Camunda BPM and DMN use cases
+# Camunda 7 - Examples
+Here you can find different examples and use cases about Camunda 7 
